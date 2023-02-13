@@ -1,0 +1,25 @@
+body {
+	font-family: Arial;
+	font-size: 20x;
+}
+
+#frame {
+	width: 500px;
+	height: 500px;
+}
+
+
+circle {
+	fill: limegreen;
+}
+
+.line {
+	stroke:darkblue;
+	stroke-width: 10
+}
+
+
+.line2 {
+	stroke:red;
+	stroke-width: 10
+}
